@@ -3,6 +3,7 @@ package com.d01.git;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
+		System.out.println("創建分支");
 	}
 	
 	public static void show01() {
