@@ -5,6 +5,7 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		System.out.println("創建分支");
 		System.out.println("master commit");
+		System.out.println("dev commit");
 	}
 	
 	public static void show01() {
