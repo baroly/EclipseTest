@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("master commit");
 		System.out.println("dev commit");
 		System.out.println("second commit before update");
+		System.out.println("online edit");
 	}
 	
 	public static void show01() {
