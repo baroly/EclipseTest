@@ -8,6 +8,7 @@ public class HelloGit {
 		System.out.println("dev commit");
 		System.out.println("second commit before update");
 		System.out.println("online edit");
+		System.out.println("test ssh");
 	}
 	
 	public static void show01() {
